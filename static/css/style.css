@@ -1,0 +1,25 @@
+.page-header {
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+video {
+	margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.footer-image {
+  opacity: 0.6;
+  width: 25px;
+}
+
